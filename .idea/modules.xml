@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OogieBoogieServiceJesper.iml" filepath="$PROJECT_DIR$/.idea/OogieBoogieServiceJesper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OogieBoogieService-master/oogieboogieservice.iml" filepath="$PROJECT_DIR$/OogieBoogieService-master/oogieboogieservice.iml" />
+    </modules>
+  </component>
+</project>
